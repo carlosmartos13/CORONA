@@ -1,0 +1,4 @@
+# Corona Virus
+# dependencies
+/node_modules
+yarn.lock
