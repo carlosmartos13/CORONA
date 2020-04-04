@@ -8,7 +8,7 @@ Você precisará ter o Node Js mais algum gerenciador de pacotes como o npm ou y
 Primeiro rode o seguinte comando:
 
 ```zsh
-git clone https://github.com/xpiral14/corona-virus-tracker
+git clone https://github.com/carlosmartos13/CORONA.git
 ```
 
 Após clonar o sistema rode o seguinte pacote para instalar os pacotes dependentes:
